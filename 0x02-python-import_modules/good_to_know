@@ -1,0 +1,4 @@
+the if main statement cheak if the script is imported to another script(the main one) it is a good practice to write this statement in each script ,it does a good job when you are testing your subprogram, and let you to prevent to run the subprogram twice. 
+Please for more explanation see this video on youtub.
+https://www.youtube.com/watch?v=o4XveLyI6YU
+ 
