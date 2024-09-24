@@ -8,7 +8,3 @@ def multiple_returns(sentence):
     else:
         first_ch = "None"
     return (size, first_ch)
-
-sentence = ""
-length, first = multiple_returns(sentence)
-print("Length: {:d} - First character: {}".format(length, first))
